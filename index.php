@@ -1,69 +1,50 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<link href="css/styles.css" rel="stylesheet">
-	<link href="css/nav.css" rel="stylesheet">
-	<title>Team Granada</title>
-	<!-- JQuery plugin -->
-	<link rel="stylesheet" href="css/flexslider.css" type="text/css">
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
-	<script src="jquery_plugin/jquery.flexslider.js"></script>	
-    <script>
-    $(window).load(function() {
-    $('.flexslider').flexslider();
-    });
-    </script>
+<?php include "inc/html-top.inc";?>
+	<body class="home">
+		<div class= "container">
 
-	<script src="js/menu-highlighter.js"></script>
+		<?php include "inc/header.inc";?>
+		<?php include "inc/nav.inc";?>
 
+		<div class="hero">
+		<h1> Initial Roles </h1>
 
-</head>
-<body>
-	<header>
-		<h1>Team Granada</h1>
-	</header>
-	
-    <?php 
-	//$current = 'index';
-	include 'inc/navigation.php';?>
+		<div class="slider">
+        	<img src="images/abroad.jpg" alt="Meghan Patrick: study abraod">
+			<img src="images/favphoto.jpg" alt="Amber Williams: favorite photo">
+			<img src="images/toronto.jpg" alt="Ana Vaquera: Toronto, Canada">
+		</div>
+		</div> <!--hero-->
+		
+		<div class="meg">
+		<h2> Meghan Patrick: Information Architect </h2>
+			<figure class="images">
+				<img src="images/abroad.jpg" alt="Portugal Pic" >
+				<figcaption>Sunset in Lisbon, Portugal</figcaption>
+			</figure>
+			
+			<p> My initital role for this assignment is infromaiton architect. As information architect I must prepare all the content and how it's arranged within each page and across pages. Design the navigation and how it's presented in any browser type and size. Lead team collaboration (Github) and manage the file structure – unless there is a Backend Hacker on the team. I will be ensure that there are no usability problems. That the structure layer (content) is coded in HTML so it is arranged and accessible in a way that makes sense for the content. That content structure(HTML)meets industry standards and best practices including W3C HTML validation within reason and that the team is coordinated and effective.<a href = "mp-about.php"> Read More</a></p>
+		</div>
 
-	<div class="container">
+		<div class="an">
+		<h2> Ana Vaquera: Coder </h2>
+			<figure class="firstfig">
+				<img src="images/toronto.jpg" alt="Toronto, Canada">
+				<figcaption>Toronto, Canada</figcaption>
+			</figure>
+			<p>My initital role for this assignment is coder. As coder I will be responsible for everything the user interacts with, from page load to every click and scroll. Checks to make sure everything in the front-end (not just JavaScript but also HTML and CSS) must work and work well (optimized). Images must be correctly prepped (optimized). Decides the particulars of plug-in usage and installation, web font installation, and general optimization and usage of all front- end technologies. I will also be in charge of all server interactions using PHP and MySQL including the addition of all code in the HTML documents to handle the server-side interactions (server- side includes too). Responsible for the set up and manipulation of database(s). Leads team collaboration (Github) and manages the file structure.<a href = "av-about.php"> Read More</a></p>
+		</div>
 
-		<h1>About our team</h1>
-		<p>Team Granada has three members. They are Qianyi Li, Forest Shi and Lady Dount (We only have 2 members in the team. So we picked a random student file from assignemnt 1 and called he or she John Burger.) They have responsibilties as Information Architect, design artist and coder. This page will give you a glance of all three of the team members in the sequence of Information Architect, design artist and coder. </p>
+ 		<div class="ber">
+		<h2> Amber Willaims: Design Artist </h2>
+			<figure class="firstfig">
+				<img src="images/favphoto.jpg" alt="new york">
+				<figcaption>New York City</figcaption>
+			</figure>
+			<p>My initital role for this assignment is design artist. As the artist I am responsible for everything the user sees, in any browser type and size I decide the graphic design, colors, styles, fonts, layouts for any browser type and size. I will ensure that there are noreadability problems. That the presentation layer (styles) is coded in CSS so it is visually arranged a way that makes sense for the content and adds value to the structure layer. Also that styles (CSS) meet industry standards and best practices including W3C CSS validation within reason.<a href = "aw-about.php"> Read More</a></p>
+		</div>
 
-		<div class="flexslider">
-	    <ul class="slides">
-	    <li>
-	      <img src="img/qli31.jpg" alt="picture of Qianyi Li">
-	    </li>
-	    <li>
-	      <img src="img/fshi.jpg" alt="picture of Forest Shi">
-	    </li>
-	    <li>
-	      <img src="img/jburger.jpg" alt="picture of John Burger">
-	    </li>
-	    </ul>
-	    </div>
-
-		<h2>Qianyi - Information Architect</h2>
-		<h3>About Me</h3>
-		<p>I am an undergraduate student in University of Rochester. I studied in NWMSU for two years before I transfer to here. I grew up in Shenzhen, China. Shenzhen is a beautiful city near the sea. I hope I can pursue a guraduate degree after I graduate from UR. </p>
-
-		<h2>Forest Shi - Design Artist</h2>
-		<h3>About me</h3>
-		<p>I am an American born Chinese. I grew up in Aurora, Ohio, later moved to Acton, Massachusetts, and then to Qingdao, China, and most recently Shanghai, China. I moved around a lot growing up and so I don’t really have any attachments to a certain location and to me home is wherever my family is rather than a city. Maybe because of all the moving around I have come to enjoy travel. I want to be able to go to as many places as I can and just explore the world. Life on the road would the dream. For periods of time in my life I literally live out of a suitcase!</p>
-
-		<h2>John Burger - Coder</h2>
-		<h3>About me</h3>
-		<p>I’m a Senior here at the U of R, trying my hardest to send out as many job applications as I can while still working hard to make the most of this last semester! I’m a Central New York kid who found his love for computer programming and web art through video games as a kid. Some of my hobbies include running 5ks, collecting old and new video game software/hardware, repairing old computers, playing video games from just about every genre on just about every device, drawing, and drinking all kinds of beer (especially a good, cloudy Belgian white).</p>
-
-	</div>
-
-	<?php include "inc/footer.php";?>
-</body>
-
-<!--<script src="http://code.jquery.com/jquery.js"></script>-->
-<script src="js/menu-highlighter.js"></script>
-
+		<?php include "inc/footer.inc"; ?>
+		</div> <!--.container -->
+		<?php include "inc/scripts.inc"; ?>
+	</body>
 </html>

@@ -37,8 +37,9 @@ function currentFile() {
 thisFile = currentFile();
 
 // Step 4: if there's nothing to the right of the last slash, then the current page is
-//	the index, so manually set it so
+//	index.html, so manually set it so
 if ( thisFile == "" ) {
+	//NOTICE: you may have to edit the following filename to index.php...
 	thisFile = "index.php"
 }
 

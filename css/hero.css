@@ -1,0 +1,9 @@
+.hero {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+
+
+.hero h1 {
+    grid-column: 1 / 3;
+}
