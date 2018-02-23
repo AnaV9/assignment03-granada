@@ -6,13 +6,14 @@
 		<?php include "inc/nav.inc";?>
 
 		<div class="hero">
-		<h1> Initial Roles </h1>
+		<h1>Computer Science Majors</h1>
 
 		<div class="slider">
         	<img src="images/abroad.jpg" alt="Meghan Patrick: study abraod">
 			<img src="images/favphoto.jpg" alt="Amber Williams: favorite photo">
 			<img src="images/toronto.jpg" alt="Ana Vaquera: Toronto, Canada">
 		</div>
+
 		</div> <!--hero-->
 		
 		<div class="meg">
