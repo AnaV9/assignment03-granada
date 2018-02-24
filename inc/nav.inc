@@ -4,16 +4,14 @@
 					<a href="index.php">Home</a>
 				</li>
 				<li>
-					<a href="mp-about.php">Meghan Patrick</a>
+					<a href="aa-about.php">Alejandro Abreu</a>
 				</li>
 				<li>
-					<a href="av-about.php">Ana Vaquera</a>
+					<a href="cb-about.php">Casey Brentnall</a>
 				</li>
 				<li>
-					<a href="aw-about.php">Amber Williams</a>
+					<a href="bl-about.php">Bei Lu</a>
 				</li>
-
-
 			</ul>
 
 			</nav>
