@@ -6,7 +6,7 @@
         <?php include "inc/header.inc";?>
         <?php include "inc/nav.inc";?>
         
-        <h1>Bei Lu</h1>
+        <h2>Bei Lu</h2>
 
         <ul>
             <li>Major:</li>

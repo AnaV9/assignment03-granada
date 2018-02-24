@@ -2,7 +2,7 @@
 	<body class="home">
 		<div class= "container">
 		<!--computer style/design, techno-->
-		<!--banner and navigation to be positoin as absolute so that when you slide down you can still see it-->
+		<!--banner (header) and navigation need to be positoined as absolute so that when you slide down you can still see them-->
 		<?php include "inc/header.inc";?>
 		<?php include "inc/nav.inc";?>
 

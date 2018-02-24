@@ -6,7 +6,7 @@
         <?php include "inc/header.inc";?>
         <?php include "inc/nav.inc";?>
         
-        <h1>Casey Brentnall</h1>
+        <h2>Casey Brentnall</h2>
 
         <ul>
             <li>Major:</li>
