@@ -1,0 +1,24 @@
+/* Navigation styling */
+
+.nav ul {
+	margin: 0px;
+	padding-left: 0px;
+}
+
+.nav a {
+	color: black;
+	padding: 10px 20px 10px 20px;
+}
+
+.nav li {
+	display: table-cell;
+}
+
+.nav{
+	float: right;
+}
+
+.nav a:hover, .current a{
+	border-top: 2px solid white;
+	padding-top: 2px;;
+}
