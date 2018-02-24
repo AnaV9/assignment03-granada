@@ -15,10 +15,12 @@
         </ul>
         
         <article>
+		<!--About and their work esperience, two seperate headings-->
         </article>
         
         <aside>
-        </aside
+		<!--Interesting Facts, in bullet points and their intial role-->
+        </aside>
 
             <?php include "inc/footer.inc"; ?>
         </div><!--.container -->
