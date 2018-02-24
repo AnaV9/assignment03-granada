@@ -13,7 +13,7 @@
 
             <!--images of place where each person is from, round-->
             <figure> 
-                <img src="images/cb.jpg" alt="" >
+                <img src="images/cb.jpg" alt="Casey Brentnall Picture">
             </figure>
 
             <!--no bullet points, just a list next to the picture-->

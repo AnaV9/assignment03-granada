@@ -1,10 +1,14 @@
 <?php include "inc/html-top.inc";?>
 	<body>
-		<div class= "container">
 		<!--computer style/design, techno-->
 		<!--banner (header) and navigation need to be positoined as absolute so that when you slide down you can still see them-->
-		<?php include "inc/header.inc";?>
-		<?php include "inc/nav.inc";?>
+
+		<section class = "banner">
+            <?php include "inc/header.inc"; ?>
+            <?php include "inc/nav.inc"; ?>
+        </section> <!--.banner-->
+
+		<div class= "container">
 
 		<div> <!--slider of images of place where each person is from, not with arrows, instead with the little dots of the three pictures udner each picture-->
         	<img src="images/aa.jpg" alt="Alejandro Abreu Picture">
@@ -20,21 +24,21 @@
 				<img src="images/aa.jpg" alt="New York City Skyline">
 				<figcaption>New York City Skyline</figcaption>
 			</figure>
-			<p></p><!---insert small about me-->
+			<p><a href = "aa-about.php"> Read More</a></p><!---insert small about me-->
 
 		<h2>Casey Brentnall</h2>
 			<figure> <!--images of place where each person is from, round-->
 				<img src="images/cb.jpg" alt="Rochester City Skyline">
 				<figcaption>Rochester City Skyline</figcaption>
 			</figure>
-			<p></p><!---insert small about me-->
+			<p><a href = "cb-about.php"> Read More</a></p><!---insert small about me-->
 
 		<h2>Bei Lu</h2>
 			<figure> <!--images of place where each person is from, round-->
 				<img src="images/bl.jpg" alt="Shanghai City Skyline">
 				<figcaption>Shanghai City Skyline</figcaption>
 			</figure>
-			<p></p><!---insert small about me-->
+			<p><a href = "bl-about.php"> Read More</a></p><!---insert small about me-->
 
 		<?php include "inc/footer.inc"; ?>
 		</div> <!--.container -->
