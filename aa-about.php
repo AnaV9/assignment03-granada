@@ -20,8 +20,8 @@
             <!--no bullet points, just a list next to the picture-->
             <ul>
                 <li>Major: Computer Science</li>
-                <li>Year:</li>
-                <li>Hometown:</li>
+                <li>Graduation Year: 2018</li>
+                <li>Hometown: New York City</li>
             </ul>
 
             <!--About and their work experience, two seperate headings-->

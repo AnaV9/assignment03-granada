@@ -19,9 +19,9 @@
 
             <!--no bullet points, just a list next to the picture-->
             <ul>
-                <li>Major:</li>
-                <li>Year:</li>
-                <li>Hometown:</li>
+                <li>Major: Computer Science and Psychology</li>
+                <li>Graduation Year: 2019</li>
+                <li>Hometown: Shanghai, China</li>
             </ul>
 
             <!--About and their work experience, two seperate headings-->

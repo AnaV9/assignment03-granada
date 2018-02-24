@@ -19,9 +19,9 @@
 
             <!--no bullet points, just a list next to the picture-->
             <ul>
-                <li>Major:</li>
-                <li>Year:</li>
-                <li>Hometown:</li>
+                <li>Major: Computer Science</li>
+                <li>Graduation Year: 2020</li>
+                <li>Hometown: Rochester, NY</li>
             </ul>
 
             <!--About and their work experience, two seperate headings-->
