@@ -1,12 +1,10 @@
 <?php include "inc/html-top.inc";?>
 	<body class="home">
 		<div class= "container">
-
+		<!--computer style/design, techno-->
+		<!--banner and navigation to be positoin as absolute so that when you slide down you can still see it-->
 		<?php include "inc/header.inc";?>
 		<?php include "inc/nav.inc";?>
-
-		<!--computer style/design, techno-->
-		<h1>Future of Computer Science</h1>
 
 		<div> <!--images of place where each person is from, not with arrows, instead with the little dots of the three pictures udner each picture-->
         	<img src="images/abroad.jpg" alt="">
