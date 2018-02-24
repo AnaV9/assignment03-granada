@@ -1,29 +1,52 @@
 <?php include "inc/html-top.inc";?>
     
     <body>
+        <section class = "banner">
+            <?php include "inc/header.inc"; ?>
+            <?php include "inc/nav.inc"; ?>
+        </section> <!--.banner-->
 
         <div class = "container">
-        <?php include "inc/header.inc";?>
-        <?php include "inc/nav.inc";?>
-        
-        <h2>Casey Brentnall</h2>
-
-        <ul>
-            <li>Major:</li>
-            <li>Year:</li>
-            <li>Hometown:</li>
-        </ul>
         
         <article>
-		<!--About and their work experience, two seperate headings-->
+            <h2>Casey Brentnall</h2>
+
+            <!--images of place where each person is from, round-->
+            <figure> 
+                <img src="images/cb.jpg" alt="" >
+                <figcaption></figcaption>
+            </figure>
+
+            <!--no bullet points, just a list next to the picture-->
+            <ul>
+                <li>Major:</li>
+                <li>Year:</li>
+                <li>Hometown:</li>
+            </ul>
+
+            <!--About and their work experience, two seperate headings-->
+            <h3>About</h3>
+                <p></p>
+            <h3>Work Experience</h3>
+                <p></p>
         </article>
-        
+
+        <!--Interesting Facts, in bullet points and their intitial role-->    
         <aside>
-		<!--Interesting Facts, in bullet points, their intial role-->
+            <h3>Interesting Facts:</h3>
+                <ul>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                </ul>
+            <h3>Initial Role</h3>
+                <p></p>
         </aside>
 
-            <?php include "inc/footer.inc"; ?>
+        <?php include "inc/footer.inc";?>
+
         </div><!--.container -->
-        <?php include "inc/scripts.inc"; ?>
+        
+        <?php include "inc/scripts.inc";?>
     </body>
 </html>

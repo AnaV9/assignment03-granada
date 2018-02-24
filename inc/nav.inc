@@ -1,4 +1,5 @@
-			<nav class="menu">
+			<nav>
+			
 			<ul>
 				<li>
 					<a href="index.php">Home</a>
