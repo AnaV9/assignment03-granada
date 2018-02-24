@@ -17,22 +17,22 @@
 
 		<h2>Alejandro Abreu</h2>
 			<figure> <!--images of place where each person is from, round-->
-				<img src="images/aa.jpg" alt="Alejandro Abreu Picture">
-				<figcaption></figcaption>
+				<img src="images/aa.jpg" alt="New York City Skyline">
+				<figcaption>New York City Skyline</figcaption>
 			</figure>
 			<p></p><!---insert small about me-->
 
 		<h2>Casey Brentnall</h2>
 			<figure> <!--images of place where each person is from, round-->
-				<img src="images/cb.jpg" alt="Casey Brentnall Picture">
-				<figcaption></figcaption>
+				<img src="images/cb.jpg" alt="Rochester City Skyline">
+				<figcaption>Rochester City Skyline</figcaption>
 			</figure>
 			<p></p><!---insert small about me-->
 
 		<h2>Bei Lu</h2>
 			<figure> <!--images of place where each person is from, round-->
-				<img src="images/bl.jpg" alt="Bei Lu Picture">
-				<figcaption></figcaption>
+				<img src="images/bl.jpg" alt="Shanghai City Skyline">
+				<figcaption>Shanghai City Skyline</figcaption>
 			</figure>
 			<p></p><!---insert small about me-->
 

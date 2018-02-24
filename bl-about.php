@@ -14,7 +14,6 @@
             <!--images of place where each person is from, round-->
             <figure> 
                 <img src="images/bl.jpg" alt="" >
-                <figcaption></figcaption>
             </figure>
 
             <!--no bullet points, just a list next to the picture-->
