@@ -30,7 +30,7 @@
                 <p>In addition, I joined the Minority Male Leadership Association, MMLA, during my junior year at the University of Rochester. Joining MMLA gave me the opportunity to provide tutoring and support to male students in Public School 19 in Rochester, NY. The graduation rate in Rochester, NY is considerably low compared to other parts of the United States. Our mission was to show students that we were in the same position as them and we were able to overcome the obstacles that they may be going through themselves. I would go to Public School 19 twice a week, and work a group of three students. I was tasked with sitting in their classes and helping them with their work that they did not understand. I would also answer questions they had about my high school and college experience to the best of my abilities. Till this day, I try to keep in contact with the students that I worked with at Public School 19. I hope to provide the scholars in SEO program with the same support that I was able to provide to Luis Avila, Jordan Fletcher, and Thomas Brown at public school 19.</p>
 
                 <p>While attending the University of Rochester, I have had the opportunity to take a variety of classes due to U of R open curriculum. I think my favorite course that I have taken throughout the years has to be any taught be either Jim Memmott or Curt Smith. At this point I got tired of writing about myself, so these last couple of sentence is a bunch of nonsense. I have a question: A fish underwater… is it wet or dry? I believe it is wet but a lot of people have their own opinions.</p>
-                
+
             <h3>Work Experience</h3>
                 <p>The first job that I obtained was here at the University of Rochester as a Building Manager at the Goergen Athletic Center. As a building manager at the Goergen Athletic Center, my main responsibilities include ensuring the safety of over 300 students and faculty members using the athletic facility. Building Managers take more than 3 tours a shift around the gym in order to ensure safety and proper usage of our equipment. In addition, a Building Manager is tasked with the responsibility of selling and promoting various membership packages. Finally, we also provide information of building and recreational activities to interested potential and active gym members over the phone or in person.</p>
 
@@ -48,7 +48,8 @@
                     <li></li>
                 </ul>
             <h3>Initial Role</h3>
-                <p></p>
+                <h4>Coder</h4>
+                <p>I have chosen to go with the role of coder. I believe this would give me the best opportunity to practice my coding. Also, the other two roles did not really call to me. I do not really consider myself the “artsy” type, so Design Artist was out of the picture. I remember you giving people a warning about Info Architect so I decided to steer clear of that one as well.I have previously taken CSC 210, CSC 170, CSC 172, and currently taking CSC 214 which I believe will help me a lot throughout the course.</p>
         </aside>
 
         <?php include "inc/footer.inc";?>
