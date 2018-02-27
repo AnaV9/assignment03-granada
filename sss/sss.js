@@ -1,7 +1,4 @@
-		<section class = "banner">
-            <?php include "inc/header.inc"; ?>
-            <?php include "inc/nav.inc"; ?>
-        </section> <!--.banner-->
+
 
 /** Super Simple Slider by @intllgnt **/
 
