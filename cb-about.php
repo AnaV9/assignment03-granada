@@ -11,17 +11,26 @@
         <article>
             <h2>Casey Brentnall</h2>
 
-            <!--images of place where each person is from, round-->
-            <figure> 
-                <img src="images/cb.jpg" alt="Casey Brentnall Picture">
-            </figure>
+                <div class="info">
+                    <ul class="basic-info">
+                    <!--no bullet points, just a list next to the picture-->
+                    <ul>
+                        <li>Major: Computer Science</li>
+                        <li>Graduation Year: 2020</li>
+                        <li>Hometown: Rochester, NY</li>
+                    </ul>
+                </div>
 
-            <!--no bullet points, just a list next to the picture-->
-            <ul>
-                <li>Major: Computer Science</li>
-                <li>Graduation Year: 2020</li>
-                <li>Hometown: Rochester, NY</li>
-            </ul>
+            <div class="pic">
+                <!--images of place where each person is from, round-->
+                <figure class="place"> 
+                    <img class="scale" src="images/cb.jpg" alt="Casey Brentnall Picture">
+                </figure>
+            </div>
+
+             <div class="article-info">
+
+
 
             <!--About and their work experience, two seperate headings-->
             <h3>About</h3>
@@ -35,16 +44,11 @@
                 <p>The next summer, before college, I worked at Family Dollar in Farmington. I applied for this job because I thought that, being a smaller store, it would be faster paced than my job at BJ’s, where I spent hours standing with no customers checking out, but unable to do anything other than stay in my aisle. At Family Dollar, I was a cashier, but was also in charge of stocking, cleaning, and to a certain extent, stopping theft.</p>
 
                 <p>The summer between my first and second semester of college, I worked at Friendly’s in Eastview Mall. Being a broke college student, this was the summer job that I worked the most hours at. I had applied for a couple of high-paying internships at computer science companies, but never heard back from them, so I tried to make up for it by working longer hours. This mall location of Friendly’s is an “express” location, where there are no waiters: orders are taken at the ice cream counter in the front, and then food is taken from the kitchen to the customers, who seat themselves. The POS system at Friendly’s was by far the most complicated in my experiences as a cashier, and it was actually pretty difficult to learn how to make each ice cream dish. The milkshake machines didn’t work. Everything got sticky. The food preparation areas needed to be spotless. Once a week, our ice cream scoops would be weighed to make sure that we weren’t over-serving. After a while working there, the General Manager asked me to train to work on the grill. A week and many burns later, I had learned how to man the grill. This work was hotter, much faster paced, and more physically and mentally intensive, but I made over a dollar more an hour than in the front. The management, however, was very rude at this location, and sometimes my safety concerns or personal issues weren’t taken seriously, so I left about 2 weeks before heading back to college. I don’t intend to return to the job next summer.</p>
+        </div>
         </article>
 
         <!--Interesting Facts, in bullet points and their intitial role-->    
         <aside>
-            <h3>Interesting Facts:</h3>
-                <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                </ul>
             <h3>Initial Role</h3>
                 <h4>Design Artist</h4>
                 <p>My initital role for this assignment is design artist. As the artist I am responsible for everything the user sees, in any browser type and size I decide the graphic design, colors, styles, fonts, layouts for any browser type and size. I will ensure that there are noreadability problems. That the presentation layer (styles) is coded in CSS so it is visually arranged a way that makes sense for the content and adds value to the structure layer. Also that styles (CSS) meet industry standards and best practices including W3C CSS validation within reason.</p>
