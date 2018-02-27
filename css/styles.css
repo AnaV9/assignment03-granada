@@ -52,6 +52,11 @@ ul{
 	list-style-type: none;
 }
 
+article{
+	display:grid;
+	grid-column-gap: 0;
+}
+
 
 article h2{
 	grid-column:1/3;
