@@ -43,10 +43,5 @@
 		<?php include "inc/footer.inc"; ?>
 		</div> <!--.container -->
 		<?php include "inc/scripts.inc"; ?>
-		<script src="js/jquery-1.11.3.min.js" type="text/javascript"> </script>
-		<script src="sss/sss.min.js"></script>
-        <script>
-            $('.slider').sss();
-        </script>
 	</body>
 </html>
