@@ -49,6 +49,7 @@
 
         <!--Interesting Facts, in bullet points and their intitial role-->    
         <aside>
+
             <h3>Initial Role</h3>
                 <h4>Design Artist</h4>
                 <p>My initital role for this assignment is design artist. As the artist I am responsible for everything the user sees, in any browser type and size I decide the graphic design, colors, styles, fonts, layouts for any browser type and size. I will ensure that there are noreadability problems. That the presentation layer (styles) is coded in CSS so it is visually arranged a way that makes sense for the content and adds value to the structure layer. Also that styles (CSS) meet industry standards and best practices including W3C CSS validation within reason.</p>

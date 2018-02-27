@@ -18,7 +18,14 @@
 	float: right;
 }
 
-.nav a:hover, .current a{
+.nav a:hover a{
 	border-top: 2px solid white;
-	padding-top: 2px;;
+	padding-top: 10px;
+}
+
+.nav a.is-current {
+	border-top: 2px solid white;
+	padding-top: 2px;
+	background: white;
+	color:black;
 }
