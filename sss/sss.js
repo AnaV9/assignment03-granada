@@ -1,4 +1,4 @@
-            <?php include "inc/header.inc"; ?>
+
 
 /** Super Simple Slider by @intllgnt **/
 
