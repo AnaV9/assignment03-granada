@@ -10,7 +10,7 @@
 
 		<div class= "container">
 
-		<div> <!--slider of images of place where each person is from, not with arrows, instead with the little dots of the three pictures udner each picture-->
+		<div class = "slider"> <!--slider of images of place where each person is from, not with arrows, instead with the little dots of the three pictures udner each picture-->
         	<img src="images/aa.jpg" alt="Alejandro Abreu Picture">
 			<img src="images/cb.jpg" alt="Casey Brentnall Picture">
 			<img src="images/bl.jpg" alt="Bei Lu Picture">
