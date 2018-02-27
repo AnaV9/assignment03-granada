@@ -18,11 +18,14 @@
 	float: right;
 }
 
-.nav a:hover a{
+/* Indicate when navigation is clickable */
+.nav a:hover{
 	border-top: 2px solid white;
 	padding-top: 10px;
 }
 
+
+/* indicate which page the user is on */
 .nav a.is-current {
 	border-top: 2px solid white;
 	padding-top: 2px;

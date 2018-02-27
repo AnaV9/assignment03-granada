@@ -4,7 +4,7 @@
 
 .container{
 	padding-top: 150px;
-	width: 100%;
+	margin:auto;
 	max-width: 960px;
 	display: grid; /* container for content set to grid to allow easier positioning of elements*/
 
@@ -44,8 +44,26 @@ article, aside{
 
 }
 
+figcaption{
+	text-align: center; /*centered caption for aethetic appeal */
+}
+
+
+.readmore{
+	color: #457B9D;
+	font-size: 20px;
+}
+
+
+a:hover{
+	color: #B3CCCE; /*indicate when links are clickable */
+}
+
+
+
+
 img {
-    border-radius: 50%;
+    border-radius: 50%; /* round pics to follow directions set by IA */
 }
 
 ul{
