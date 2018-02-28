@@ -42,11 +42,12 @@
          </div>   
         </article>
 
-        <!--Interesting Facts, in bullet points and their intitial role-->    
+        <!--Intitial role-->    
         <aside>
             <h3>Initial Role</h3>
                 <h4>Coder</h4>
-                <p>I choose to be the coder for the first assignment because it was my least confident role. Actually, I had experience in CSC 210 last semester and were pretty familiar with both frontend and backend web programing. However, the coding part of web design are still my least favorite ones. According to my team work experiences in last fall, teamwork demands lots of effort from each team member to help out other teammates and collaborate so that the website is functional. Having the idea that no single role will be entirely independent, I decided to take the hard work first and help my teammates get on track. Also, I still need a bit time to familiarize with the idea of a 3-person team.</p>
+                <p>I chose to be the coder for the first assignment because it was my least confident role. Actually, I had experience in CSC 210 last semester and were pretty familiar with both frontend and backend web programing. However, the coding part of web design are still my least favorite ones. According to my team work experiences in last fall, teamwork demands lots of effort from each team member to help out other teammates and collaborate so that the website is functional. Having the idea that no single role will be entirely independent, I decided to take the hard work first and help my teammates get on track. Also, I still need a bit time to familiarize with the idea of a 3-person team.</p>
+                <p>As coder I was be responsible for everything the user interacts with, from page load to every click and scroll. Checks to make sure everything in the front-end (not just JavaScript but also HTML and CSS) must work and work well (optimized). Images must be correctly prepped (optimized). Decides the particulars of plug-in usage and installation, web font installation, and general optimization and usage of all front- end technologies. I was also in charge of all server interactions using PHP and MySQL including the addition of all code in the HTML documents to handle the server-side interactions (server- side includes too). Responsible for the set up and manipulation of database(s). Leads team collaboration (Github) and manages the file structure.</p>
         </aside>
 
         <?php include "inc/footer.inc";?>

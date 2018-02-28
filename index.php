@@ -1,6 +1,6 @@
 <?php include "inc/html-top.inc";?>
 	<body>
-		<!--computer style/design, techno-->
+		<!--computer style/design, techno, fonts should be modern/techy-->
 		<!--banner (header) and navigation need to be positoined as absolute so that when you slide down you can still see them-->
 
 		<section class = "banner">
@@ -11,13 +11,13 @@
 		<div class= "container">
 
 		<article>
-		<div class = "slider"> <!--slider of images of place where each person is from, not with arrows, instead with the little dots of the three pictures udner each picture-->
+		<div class = "slider"> <!--slider of images of place where each person is from-->
         	<img src="images/aa.jpg" alt="Alejandro Abreu Picture">
 			<img src="images/cb.jpg" alt="Casey Brentnall Picture">
 			<img src="images/bl.jpg" alt="Bei Lu Picture">
 		</div>
 		
-		<!--list the three people in 1 row, 3 columns - under the slider-->
+		<!--list the three people - under the slider-->
 		<!--order of last name-->
 
 		<h2>Alejandro Abreu</h2>

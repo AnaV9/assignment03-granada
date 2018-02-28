@@ -1,1 +1,0 @@
-<p>©2017 Ana Vaquera CSC 170 Webpage Design and Development</p>

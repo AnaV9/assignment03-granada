@@ -47,12 +47,12 @@
         </div>
         </article>
 
-        <!--Interesting Facts, in bullet points and their intitial role-->    
+        <!--Intitial role-->    
         <aside>
-
             <h3>Initial Role</h3>
                 <h4>Design Artist</h4>
                 <p>My initital role for this assignment is design artist. As the artist I am responsible for everything the user sees, in any browser type and size I decide the graphic design, colors, styles, fonts, layouts for any browser type and size. I will ensure that there are noreadability problems. That the presentation layer (styles) is coded in CSS so it is visually arranged a way that makes sense for the content and adds value to the structure layer. Also that styles (CSS) meet industry standards and best practices including W3C CSS validation within reason.</p>
+                <p>A graphic designer is a professional within the graphic design and graphic arts industry who assembles together images, typography, or motion graphics to create a piece of design. A graphic designer creates the graphics primarily for published, printed or electronic media, such as brochures (sometimes) and advertising. They are also sometimes responsible for typesetting, illustration, user interfaces, and web design. A core responsibility of the designer's job is to present information in a way that is both accessible and memorable.</p>
         </aside>
 
         <?php include "inc/footer.inc";?>
