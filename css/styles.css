@@ -109,11 +109,9 @@ img.scale {
 
 /* Slider Formatting */
 
-* {box-sizing: border-box
-	padding: 0px;
-}
+* {box-sizing: border-box}
 body {font-family: Verdana, sans-serif;}
-.mySlides {display: none}
+.slider {display: none}
 img {vertical-align: middle;}
 
 /* Slideshow container */
