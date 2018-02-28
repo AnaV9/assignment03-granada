@@ -47,11 +47,12 @@
         </div>       
         </article>
 
-        <!--Interesting Facts, in bullet points and their intitial role-->    
+        <!--Intitial role-->    
         <aside>
             <h3>Initial Role</h3>
                 <h4>Coder</h4>
                 <p>I have chosen to go with the role of coder. I believe this would give me the best opportunity to practice my coding. Also, the other two roles did not really call to me. I do not really consider myself the “artsy” type, so Design Artist was out of the picture. I remember you giving people a warning about Info Architect so I decided to steer clear of that one as well.I have previously taken CSC 210, CSC 170, CSC 172, and currently taking CSC 214 which I believe will help me a lot throughout the course.</p>
+                <p>As coder I was be responsible for everything the user interacts with, from page load to every click and scroll. Checks to make sure everything in the front-end (not just JavaScript but also HTML and CSS) must work and work well (optimized). Images must be correctly prepped (optimized). Decides the particulars of plug-in usage and installation, web font installation, and general optimization and usage of all front- end technologies. I was also in charge of all server interactions using PHP and MySQL including the addition of all code in the HTML documents to handle the server-side interactions (server- side includes too). Responsible for the set up and manipulation of database(s). Leads team collaboration (Github) and manages the file structure.</p>
         </aside>
 
         <?php include "inc/footer.inc";?>
