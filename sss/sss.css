@@ -1,6 +1,4 @@
 .sss {
-	height: 200px;
-	margin: 200px; 
 	padding: 0px;
 	position: relative;
 	display: block;
@@ -29,7 +27,6 @@
 
 .sssnext, .sssprev {
 	width: 25px;
-	height: 100%;
 	margin: 0;
 	position: absolute;
 	top: 0;

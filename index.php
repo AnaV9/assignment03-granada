@@ -10,6 +10,7 @@
 
 		<div class= "container" style="z-index: 1;">
 
+
 		<div class = "slider" style="z-index: -1;"> <!--slider of images of place where each person is from-->
         	<img src="images/aa.jpg" alt="Alejandro Abreu Picture">
 			<img src="images/cb.jpg" alt="Casey Brentnall Picture">
@@ -17,6 +18,8 @@
 		</div>
 
 		<article >
+
+
 		
 		<!--list the three people - under the slider-->
 		<!--order of last name-->
