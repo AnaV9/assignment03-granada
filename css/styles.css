@@ -20,12 +20,13 @@
 body{
 	background: linear-gradient(to top, white 0%, #457B9D 100%);
 	/* Transition of color to communicate scroll length on page */
-
+	/* CRAP principle: contrast between border and page */
 }
 
 h1{
 	font-size: 2pt;
 	padding: 0px 0px 0px 15px;
+	/* CRAP princple: alignment of headings */
 }
 
 
@@ -41,7 +42,7 @@ article, aside{
 	margin: 40px;
 	background-color: white;	/* creating clear box around the different blocks on information help differntiate content types*/ 
 	box-shadow: 0px 0px 30px 0px gray;
-
+	/* CRAP principle: repetition of background and layout */;
 }
 
 figcaption{
@@ -52,6 +53,7 @@ figcaption{
 .readmore{
 	color: #457B9D;
 	font-size: 20px;
+	/*CRAP princple: Proximity of link to about block makes it obvious that the read more tag will lead to page about student */;
 }
 
 
