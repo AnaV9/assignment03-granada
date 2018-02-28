@@ -111,11 +111,7 @@ img.scale {
 
 * {box-sizing: border-box}
 body {font-family: Verdana, sans-serif;}
-.mySlides {display: none
-			margin: 0 auto;
-			height: 200px;
-			padding: 5px;
-}
+.mySlides {display: none}
 img {vertical-align: middle;}
 
 /* Slideshow container */
