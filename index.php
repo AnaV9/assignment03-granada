@@ -1,7 +1,7 @@
 <?php include "inc/html-top.inc";?>
 	<body>
 		<!--computer style/design, techno, fonts should be modern/techy-->
-		<!--banner (header) and navigation need to be positoined as absolute so that when you slide down you can still see them-->
+		<!--banner (header) and navigation need to be positoined as fixed so that when you slide down you can still see them-->
 
 		<section class = "banner">
             <?php include "inc/header.inc"; ?>
